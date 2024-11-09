@@ -1,140 +1,3 @@
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.exe
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.deps.json
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.runtimeconfig.json
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.pdb
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Azure.Core.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Azure.Identity.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Humanizer.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.Convention.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.Memory.Data.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.csproj.AssemblyReference.cache
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.csproj.GenerateResource.cache
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.AssemblyInfoInputs.cache
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.AssemblyInfo.cs
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.csproj.CoreCompileInputs.cache
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.csproj.CopyComplete
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\refint\WinFormsCore.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.pdb
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.genruntimeconfig.cache
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\ref\WinFormsCore.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.Views.MainForm.resources
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\LUU TOAN DINH\Downloads\rac\WinFormsCore\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.exe
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.deps.json
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.runtimeconfig.json
@@ -142,7 +5,14 @@ D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\WinForm
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\WinFormsCore.pdb
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Azure.Core.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Enums.NET.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\ExtendedNumerics.BigDecimal.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Humanizer.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\MathNet.Numerics.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
@@ -180,17 +50,32 @@ D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microso
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\NPOI.Core.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\NPOI.OOXML.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\NPOI.OpenXml4Net.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\NPOI.OpenXmlFormats.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Barcode.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Doc.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Email.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Pdf.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Presentation.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.XLS.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.Convention.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.IO.Packaging.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.Memory.Data.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
@@ -246,6 +131,10 @@ D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\ru\Micr
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
@@ -260,41 +149,19 @@ D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtime
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.csproj.AssemblyReference.cache
+D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.Properties.Resources.resources
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.Views.MainForm.resources
+D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.Views.Sign_in.resources
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.csproj.GenerateResource.cache
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.GeneratedMSBuildEditorConfig.editorconfig
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.AssemblyInfoInputs.cache
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.AssemblyInfo.cs
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.csproj.CoreCompileInputs.cache
+D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.sourcelink.json
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinForms.827E2E98.Up2Date
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\refint\WinFormsCore.dll
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.pdb
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.genruntimeconfig.cache
 D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\ref\WinFormsCore.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Enums.NET.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\ExtendedNumerics.BigDecimal.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\MathNet.Numerics.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\NPOI.Core.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\NPOI.OOXML.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\NPOI.OpenXml4Net.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\NPOI.OpenXmlFormats.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Barcode.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Doc.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Email.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Pdf.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.Presentation.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\Spire.XLS.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\System.IO.Packaging.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
-D:\dotNet\Lập trình trực quan\WinFormsCore\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\dotNet\Lập trình trực quan\WinFormsCore\obj\Debug\net8.0-windows\WinFormsCore.Views.Product.resources

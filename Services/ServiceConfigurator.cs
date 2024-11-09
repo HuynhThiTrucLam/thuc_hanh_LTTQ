@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using NPOI.SS.Formula.Functions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,14 +21,16 @@ namespace WinFormsCore.Services
 
             // Register configuration so it can be injected
             services.AddSingleton<IConfiguration>(configuration);
+          
 
             // Register ApplicationDbContext with the connection string from config
             services.AddDbContext<ShopContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
             // Add other services here if needed
-            services.AddTransient<MainForm>(); // Register MainForm for DI
-            
+            services.AddTransient<Views.Customer>(); // Register MainForm for DI
+            services.AddTransient<Sign_in>();
+
             // Apply pending migrations at startup
             var serviceProvider = services.BuildServiceProvider();
             using (var scope = serviceProvider.CreateScope())

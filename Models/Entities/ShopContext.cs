@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Windows.Forms;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client.NativeInterop;
 
 namespace WinFormsCore.Models.Entities;
 
@@ -14,7 +16,6 @@ public partial class ShopContext : DbContext
         : base(options)
     {
     }
-
     public virtual DbSet<Customer> Customers { get; set; }
 
     public virtual DbSet<Order> Orders { get; set; }
@@ -24,6 +25,8 @@ public partial class ShopContext : DbContext
     public virtual DbSet<Product> Products { get; set; }
 
     public virtual DbSet<Supplier> Suppliers { get; set; }
+
+    public DbSet<Account> Accounts { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
@@ -133,6 +136,19 @@ public partial class ShopContext : DbContext
             entity.Property(e => e.Country).HasMaxLength(40);
             entity.Property(e => e.Fax).HasMaxLength(30);
             entity.Property(e => e.Phone).HasMaxLength(30);
+        });
+
+        modelBuilder.Entity<Account>(entity =>
+        {
+            
+            entity.ToTable("Account");
+            entity.HasKey(e => e.ID_Acc).HasName("PK_ACCOUNT");
+
+            entity.Property(e => e.Username).HasMaxLength(40);
+            entity.Property(e => e.Pword).HasMaxLength(40);
+            entity.Property(e => e.Fullname).HasMaxLength(50);
+            entity.Property(e => e.AccountRole).HasMaxLength(40);
+
         });
 
         OnModelCreatingPartial(modelBuilder);

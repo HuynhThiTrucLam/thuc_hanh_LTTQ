@@ -2,6 +2,7 @@ using WinFormsCore.Views;
 using WinFormsCore.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
+using NPOI.SS.Formula.Functions;
 namespace WinFormsCore
 {
     static class Program
@@ -29,12 +30,10 @@ namespace WinFormsCore
             // Configure services
             var serviceProvider = ServiceConfigurator.ConfigureServices(services, configuration);
 
-            // Resolve the MainForm with DI
-            var mainForm = serviceProvider.GetRequiredService<MainForm>();
-
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            Application.Run(mainForm);
+            // Resolve the SignIn form with DI
+            var signInForm = serviceProvider.GetRequiredService<Sign_in>();
+            Application.Run(signInForm);
         }
+
     }
 }
